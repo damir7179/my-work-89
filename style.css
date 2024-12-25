@@ -1,0 +1,51 @@
+body{
+    background-color: gray;
+}
+.a {
+   width: 150px;
+   height: 200px;
+   border-width: 150px;
+   background-color: aliceblue;
+   justify-items: center;
+   text-align: center;
+   position: relative;
+   top: 100px;
+   left: 200px;
+}
+.s {
+    width: 150px;
+   height: 200px;
+   border-width: 150px;
+   background-color: aliceblue;
+   justify-items: center;
+   text-align: center;
+   position: relative;
+   top: -80px;
+   left: 380px;
+}
+.d {
+    width: 150px;
+    height: 200px;
+    border-width: 150px;
+    background-color: aliceblue;
+    justify-items: center;
+    text-align: center;
+    position: relative;
+    top: -255px;
+    left: 560px;
+}
+.i1 {
+    font-size: 50px;
+    color: green;
+}
+.i2 {
+    font-size: 50px;
+    color: red;
+}
+.i3 {
+    font-size: 50px;
+    color: red;
+}
+button{
+    background-color: blue;
+}
